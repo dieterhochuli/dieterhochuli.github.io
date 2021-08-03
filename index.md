@@ -6,3 +6,4 @@ subtitle: My name?
 
 I'm a bigshot at blank university. Take a look at my research and stuff or whatever.
 
+![]({{ site.url }}/images/profile.jpg)
