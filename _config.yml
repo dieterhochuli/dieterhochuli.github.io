@@ -72,7 +72,7 @@ twitter: dieterhochuli
 
 # Select which social network share links to show in news/blog posts
 share-links-active:
-  twitter: false
+  twitter: true
   facebook: false
   linkedin: false
   vk: false
