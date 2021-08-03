@@ -137,10 +137,14 @@ Blamires, S. J., Hochuli, D. F. & Thompson, M. B. 2008. Why cross the web: Decor
 Reid, A. M. & Hochuli, D. F. 2007. Grassland invertebrate assemblages in managed landscapes: Effect of host plant and microhabitat architecture. Austral Ecology, 32, 708-718.
 
 Lassau, S. A. & Hochuli, D. F. 2007. Associations between wasp communities and forest structure: Do strong local patterns hold across landscapes? Austral Ecology, 32, 656-662.
+
 Blamires, S. J., Thompson, M. B. & Hochuli, D. F. 2007. Habitat selection and web plasticity by the orb spider Argiope keyserlingi (Argiopidae): Do they compromise foraging success for predator avoidance? Austral Ecology, 32, 551-563.
+
 Blamires, S. J., Hochuli, D. F. & Thompson, M. B. 2007. Does decoration building influence antipredator responses in an orb-web spider (Argiope keyserlingi) in its natural habitat? Australian Journal of Zoology, 55, 1-7.
+
 Tatarnic, N. J., Cassis, G. & Hochuli, D. F. 2006. Traumatic insemination in the plant bug genus Coridromius signoret (Heteroptera: Miridae). Biology Letters, 2, 58-61.
 Lomov, B., Keith, D. A., Britton, D. R. & Hochuli, D. F. 2006. Are butterflies and moths useful indicators for restoration monitoring? A pilot study in Sydney's Cumberland plain woodland. Ecological Management & Restoration, 7, 204-210.
+
 Goldsbrough, C. L., Shine, R. & Hochuli, D. F. 2006. Factors affecting retreat‐site selection by coppertail skinks (Ctenotus taeniolatus) from sandstone outcrops in eastern Australia. Austral ecology, 31, 326-336.
 Lassau, S. A., Hochuli, D. F., Cassis, G. & Reid, C. A. 2005. Effects of habitat complexity on forest beetle diversity: Do functional groups respond consistently? Diversity and distributions, 11, 73-82.
 Lassau, S. A. & Hochuli, D. F. 2005. Wasp community responses to habitat complexity in Sydney sandstone forests. Austral Ecology, 30, 179-187.
