@@ -173,12 +173,19 @@ Hochuli, D.F., Roberts, B. & Sanson, G. 1992. Anteriorly directed microspines in
 
 Book chapters
 Hochuli, D.F. & Threlfall. C.G. 2018 Planning for protection: promoting pest suppressing landscapes through habitat management. In: Ossola, A., Niemelä, J. (eds.) Urban Biodiversity: from Research to Practice. Routledge, London and New York pp. 54-70.
+
 Lunney, D., Hutchings, P., Hochuli, D. F. & Recher, H. 2010. Is the natural history of Sydney so camouflaged that it will not survive? In: Lunney, D., Hutchings, P. & Hochuli, D. (eds.) The natural history of Sydney. Mosman: Royal Zoological Society of New South Wales. pp 429-438.
+
 Hochuli, D. F., Christie, F. J. & Lomov, B. 2009. Invertebrate biodiversity in urban landscapes: Assessing remnant habitat and its restoration. In: McDonnell, M. J., Hahs, A. K. & Breuste, J. H. (eds.) Ecology of cities and towns: A comparative approach. Cambridge University Press
+
 Wratten SD, Hochuli D.F., Gurr G.M., Tylianakis J, Scarratt SL. (2007) Conservation, biodiversity and integrated pest management. In: Perspectives in ecological theory and integrated pest management (eds M Kogan and P Jepson), pp 223-224, Cambridge University Press, Cambridge, United Kingdom.
+
 Hochuli, D., Gibb, H., Burrows, S. & Christie, F. 2004. Ecology of Sydney’s urban habitat fragments: Has fragmentation taken the sting out of insect herbivory. In: Lunney, D. & Burgin, S. (eds.) Urban wildlife: More than meets the eye. Mosman: Royal Zoological Society of NSW. pp 63-69.
+
 Gibb, H. & Hochuli, D. F. 1999. Nesting analysis of arthropod assemblages in habitat fragments in the Sydney region. In: Ponder, W. & Lunney, D. (eds.) The other 99%. The conservation and biodiversity of invertebrates. Mosman: Royal Zoological Society of New South Wales. pp 77-81
+
 Hochuli, D. F. 1998. Biodiversity tale: How invertebrates can teach the zoology dog new tricks. In: Lunney, D., Dawson, T. E. & Dickman, C. (eds.) Is the biodiversity tail wagging the zoological dog?  Mosman: Royal Zoological Society of New South Wales. pp 15-23.
+
 
 
 
