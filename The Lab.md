@@ -24,4 +24,4 @@ We use multi-species multi-scale approaches to give us a leaf to landscape under
 I’m also looking at big picture insect-plant interactions in collaborations with several systematists to identify how co-evolutionary relationships contribute to host specificity among herbivorous insects and ultimately, radiations of insects on different host plants. This is part of a larger project looking at coextinction risks for insects on threatened plants. We’re developing spatially explicitly models for estimating coextinction risk with a view to identifying the extent to which hidden losses of undescribed and unknown herbivores contribute to the extinction crisis.
 
 
-If you’re interested in working on these sorts of questions with me please have a look at our lab web site and get in touch.
+If you’re interested in working on these sorts of questions with me please have a look at the site and get in touch.
