@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  github: thomased
-  ORCID: https://orcid.org/0000-0002-3976-1734
-# google-scholar: your google scholar
+  email: "dieter.hochuli@sydney.edu.au"
+  github: dieterhochuli
+  ORCID: https://orcid.org//0000-0002-6673-4475
+google-scholar: https://scholar.google.com.au/citations?user=RIuREhAAAAAJ&hl
 # facebook: deanattali
-# twitter: daattali
+twitter: dieterhochuli
 # patreon: DeanAttali
 # youtube: c/daattali
 #  medium: yourname
