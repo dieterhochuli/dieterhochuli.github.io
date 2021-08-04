@@ -10,6 +10,10 @@ Person et al. (2021) Make-believe paper. _A journal_ 1:100-105.
 White TE, Latty T (2020) Flies improve the salience of iridescent sexual signals by orienting toward the sun. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/araa098) 31, 1401-1409.  
 | [pdf]({{ site.url }}/documents/white_latty_2020_flies_improve_the_salience_of_iridescent_sexual_signals_by_orienting_toward_the_sun.pdf) |
 
+more stuff
+
+Here is how you include [a link to another site (or a paper of your etc.)](https://www.wikipedia.org)
+
 
 Keith, R.J. Martin, J.M, Given, L. and Hochuli, D. F. Urban children’s connections to nature and environmental behaviors differ with age and gender, PLOS1 
 
@@ -18,7 +22,9 @@ Hall, M.J., Burns, A.L., Martin, J.M. and Hochuli, D.F. 2021, Ecological insight
 Taylor, L., Leckey, E., Lead, P. and Hochuli, D.F. 2020.What visitors want from urban parks: diversity, utility, serendipity. n Frontiers in Environmental Science (accepted 14 Nov 2020)
 
 Goddard, M. A., Davies, Z. G., Guenat, S., Ferguson, M. J., Fisher, J. C., Akanni, A., . . . Dallimer, M. 2021. A global horizon scan of the future impacts of robotics and autonomous systems on urban ecosystems. Nature Ecology & Evolution. doi:10.1038/s41559-020-01358-zz
+
 Ordóñez, C., Kendal, D., Threlfall, C.T., Hochuli, D.F., Davern, M.,  Fuller, R., van der Ree, R., Livesley, S.  How urban forest managers evaluate management and governance challenges in their decision-making. Forests. Accepted 30 August 2020.
+
 Taylor, C.L., Lydecker, H.W., Lo, N., Hochuli, D.F. and Banks P.B. 2020.   Invasive rabbits host immature Ixodes ticks at the urban-forest interface.  Ticks and Tick-Borne Diseases (Accepted 2 April 2020)
 
 Hanford. J. K. Hochuli D.F, and Webb. C.E. 2020.  Observations of an unexpected abundance of estuarine mosquitoes associated with an urban freshwater wetland.  Australian Zoologist (accepted 22 February 2020).
@@ -143,32 +149,53 @@ Blamires, S. J., Thompson, M. B. & Hochuli, D. F. 2007. Habitat selection and we
 Blamires, S. J., Hochuli, D. F. & Thompson, M. B. 2007. Does decoration building influence antipredator responses in an orb-web spider (Argiope keyserlingi) in its natural habitat? Australian Journal of Zoology, 55, 1-7.
 
 Tatarnic, N. J., Cassis, G. & Hochuli, D. F. 2006. Traumatic insemination in the plant bug genus Coridromius signoret (Heteroptera: Miridae). Biology Letters, 2, 58-61.
+
 Lomov, B., Keith, D. A., Britton, D. R. & Hochuli, D. F. 2006. Are butterflies and moths useful indicators for restoration monitoring? A pilot study in Sydney's Cumberland plain woodland. Ecological Management & Restoration, 7, 204-210.
 
 Goldsbrough, C. L., Shine, R. & Hochuli, D. F. 2006. Factors affecting retreat‐site selection by coppertail skinks (Ctenotus taeniolatus) from sandstone outcrops in eastern Australia. Austral ecology, 31, 326-336.
+
 Lassau, S. A., Hochuli, D. F., Cassis, G. & Reid, C. A. 2005. Effects of habitat complexity on forest beetle diversity: Do functional groups respond consistently? Diversity and distributions, 11, 73-82.
+
 Lassau, S. A. & Hochuli, D. F. 2005. Wasp community responses to habitat complexity in Sydney sandstone forests. Austral Ecology, 30, 179-187.
+
 Lassau, S. A., Cassis, G., Flemons, P. K., Wilkie, L. & Hochuli, D. F. 2005. Using high‐resolution multi‐spectral imagery to estimate habitat complexity in open‐canopy forests: Can we predict ant community patterns? Ecography, 28, 495-504.
+
 Graham, K. L., Blackwell, G. L. & Hochuli, D. F. 2005. Habitat use by the Hastings river mouse, Pseudomys oralis. Australian Zoologist, 33, 100-107.
+
 Christie, F. J. & Hochuli, D. F. 2005. Elevated levels of herbivory in urban landscapes: Are declines in tree health more than an edge effect. Ecol Soc, 10.
 Lassau, S. A. & Hochuli, D. F. 2004. Effects of habitat complexity on ant assemblages. Ecography, 27, 157-164.
+
 Goldsbrough, C. L., Hochuli, D. F. & Shine, R. 2004. Fitness benefits of retreat-site selection: Spiders, rocks, and thermal cues. Ecology, 85, 1635-1641.
+
 Gibb, H. & Hochuli, D. F. 2004. Removal experiment reveals limited effects of a behaviorally dominant species on ant assemblages. Ecology, 85, 648-657.
+
 Reid, A. M., Hochuli, D. F. & Cassis, G. 2003. Long-term effect of nutrients and grazing on grassland ground-dwelling invertebrates. Integrative and Comparative Biology, 43, 1004-1004.
+
 Reader, T. & Hochuli, D. F. 2003. Understanding gregariousness in a larval lepidopteran: The roles of host plant, predation, and microclimate. Ecological Entomology, 28, 729-737.
+
 Lassau, S. A. & Hochuli, D. F. 2003. Effects of roads on ant assemblages in the Sydney region: Are patterns scale-dependent? Records of the South Australian Museum Monograph Series, 7, 283-290.
+
 Goldsbrough, C., Hochuli, D.F. & Shine, R. 2003. Invertebrate biodiversity under hot rocks: Habitat use by the fauna of sandstone outcrops in the Sydney region. Biological conservation, 109, 85-93.
+
 Gibb, H. & Hochuli, D. F. 2003. Colonisation by a dominant ant facilitated by anthropogenic disturbance: Effects on ant assemblage composition, biomass and resource use. Oikos, 103, 469-478.
+
 Gibb, H. & Hochuli, D.F. 2003. Nest relocation in the golden spiny ant, Polyrhachis ammon : Environmental cues and temporal castes. Insectes Sociaux, 50, 323-329.
+
 Gibb, H., Giragossyan, H. & Hochuli, D. F. 2003. Spatial arrangement of nests of the common greenhead ant, Rhytidoponera metallica (f. Smith), on rock outcrops: Over dispersion and the effect of a dominant ant. Records of the South Australian Museum Monograph Series, 7, 275-281.
+
 Gibb, H. & Hochuli, D. F. 2002. Habitat fragmentation in an urban environment: Large and small fragments support different arthropod assemblages. Biological Conservation, 106, 91-100.
+
 Hochuli, D. F. 2001. Insect herbivory and ontogeny: How do growth and development influence feeding behaviour, morphology and host use? Austral Ecology, 26, 563-570.
+
 Hochuli, D. F. & Roberts, F. M. 1996. Approximate digestibility of fibre for a graminivorous caterpillar. Entomologia experimentalis et applicata, 81, 15-20.
+
 Hochuli, D. F. 1996. The ecology of plant/insect interactions: Implications of digestive strategy for feeding by phytophagous insects. Oikos, 133-141.
+
 Hochuli, D. F., Roberts, B. & Sanson, G. D. 1994. Foregut morphology of Locusta migratoria (L) (Orthoptera, acrididae). Journal of the Australian Entomological Society, 33, 65-69.
 Hochuli, D. F. 1993. Does silica defend grasses against invertebrate herbivores? Trends in Ecology & Evolution, 8, 418-418.
 
 Hochuli, D.F., Sanson, G. & Roberts, B. 1993. Approximate digestibility of fibre for two locusts. Entomologia experimentalis et applicata, 66, 187-190.
+
 Hochuli, D.F., Roberts, B. & Sanson, G. 1992. Anteriorly directed microspines in the foregut of Locusta migratoria (Orthoptera: Acrididae). International Journal of Insect Morphology and Embryology, 21, 95-97.
 
 Book chapters
