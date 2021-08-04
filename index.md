@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome!
-subtitle: My name?
+subtitle: I'm Dieter Hochuli
 ---
 
 I'm a professor at the University of Sydney. Take a look at my research and stuff or whatever.
