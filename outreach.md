@@ -13,7 +13,7 @@ Most of them are a function of answering the phone/email and agreing to talk abo
 
 Here are some videos of my talking about things
 
-Pollinators of the innner city
+Pollinators of the inner city
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9GzR02qrIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
