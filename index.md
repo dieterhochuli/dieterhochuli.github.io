@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome!
-subtitle: I'm Dieter Hochuli
+title: Dieter Hochuli
+subtitle: Integrative Ecology Lab The University of Sydney
 ---
 
 I'm a professor at the University of Sydney and I lead the Integrative Ecology Lab there.  My work focuses on nature in cities, integrating human dimensions of ecology and natural history in urban environments.
