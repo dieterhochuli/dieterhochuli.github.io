@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Outreach
-subtitle: Media and chats outside the ivory tower
+title: Outreach and Media
+subtitle: Beyond the ivory tower
 ---
 
 I'm always keen to  I talk to as many people as I can about the work we do.  So here's some stuff about my outreach work.  
