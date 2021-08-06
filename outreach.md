@@ -28,7 +28,11 @@ One I made for my online course, the Science of Australia's Deadly Animals 2021
 
 Here's some radio
 
-Talking plovers with Ben Fordham from 2GB
+
+Talking quiet cities during COVID lockdown 2021
+https://www.abc.net.au/radio/sydney/programs/breakfast/quiet-sydney/13463824
+
+Talking plovers with Ben Fordham from 2GB 2019
 https://omny.fm/shows/ben-fordham-full-show/sydney-university-bird-expert-assoc-prof-dieter-ho
 
 
