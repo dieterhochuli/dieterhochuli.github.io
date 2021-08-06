@@ -13,15 +13,22 @@ Most of them are a function of answering the phone/email and agreing to talk abo
 
 Here are some videos of my talking about things
 
-Pollinators of the inner city
+Pollinators of the inner city 2019
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9GzR02qrIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Chatting about life vs science in...  a Cabaret lounge with the fabulous In situ science crew.
+Chatting about life vs science in...  a Cabaret lounge with the fabulous In situ science crew. 2018
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z3u2JwGuZwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-One I made for my online course, the Science of Australia's Deadly Animals
+One I made for my online course, the Science of Australia's Deadly Animals 2021
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nS4-2eSd_nM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Here's some radio
+
+Talking plovers with Ben Fordham from 2GB
+https://omny.fm/shows/ben-fordham-full-show/sydney-university-bird-expert-assoc-prof-dieter-ho
+
+
